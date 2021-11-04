@@ -1,6 +1,6 @@
 # url-href-scrapper
  Scrap href elements from an url
-[![npm version](https://badge.fury.io/js/url-scrapper.svg)](https://npmjs.com/package/url-scrapper)
+[![npm version](https://badge.fury.io/js/url-scrapper.svg)](https://npmjs.com/package/url-href-scrapper)
 
 Scrap urls to get href elements from an url with this module
 
