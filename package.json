@@ -1,0 +1,49 @@
+{
+  "name": "url-scrapper",
+  "version": "1.0.0",
+  "description": "Get href elements from a url",
+  "main": "index.js",
+  "dependencies": {
+    "boolbase": "^1.0.0",
+    "cheerio": "^1.0.0-rc.10",
+    "axios": "^0.24.0",
+    "cheerio-select": "^1.5.0",
+    "css-select": "^4.1.3",
+    "dom-serializer": "^1.3.2",
+    "css-what": "^5.1.0",
+    "domelementtype": "^2.2.0",
+    "domhandler": "^4.2.2",
+    "parse5": "^6.0.1",
+    "domutils": "^2.8.0",
+    "entities": "^2.2.0",
+    "follow-redirects": "^1.14.5",
+    "htmlparser2": "^6.1.0",
+    "nth-check": "^2.0.1",
+    "parse5-htmlparser2-tree-adapter": "^6.0.1",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0",
+    "punycode": "^1.3.2",
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artlfmj/url-scrapper.git"
+  },
+  "keywords": [
+    "scrap",
+    "url",
+    "Artlmj",
+    "html",
+    "href"
+  ],
+  "author": "Artlfmj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artlfmj/url-scrapper/issues"
+  },
+  "homepage": "https://github.com/Artlfmj/url-scrapper#readme"
+}
