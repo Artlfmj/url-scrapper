@@ -1,4 +1,4 @@
-# url-scrapper
+# url-href-scrapper
  Scrap href elements from an url
 [![npm version](https://badge.fury.io/js/url-scrapper.svg)](https://npmjs.com/package/url-scrapper)
 

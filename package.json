@@ -1,5 +1,5 @@
 {
-  "name": "url-scrapper",
+  "name": "url-href-scrapper",
   "version": "1.0.0",
   "description": "Get href elements from a url",
   "main": "index.js",
