@@ -1,3 +1,3 @@
 const url = require('.')
 
-url('https://www.google.com/').then(console.log)
+url.getImages('https://actu-dados.com/maj-15-30-fortnite-revue/').then(console.log)

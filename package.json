@@ -1,7 +1,7 @@
 {
   "name": "url-href-scrapper",
-  "version": "1.0.2",
-  "description": "Get href elements from a url",
+  "version": "1.1.0",
+  "description": "Get elements from a url",
   "main": "index.js",
   "dependencies": {
     "boolbase": "^1.0.0",
